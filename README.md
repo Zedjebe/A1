@@ -9,7 +9,7 @@ $pkg install ruby figlet -y
 $gem install lolcat
 ```
 ```
-Username : Maulanarym
-Password : subscribe
+Username : zedjebe  
+Password : herocynaku
 ```
 Skuy Living
