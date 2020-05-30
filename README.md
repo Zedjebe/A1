@@ -10,6 +10,6 @@ $gem install lolcat
 ```
 ```
 Username : zedjebe  
-Password : herocynaku
+the password is hidden somewhere in the code
 ```
 Skuy Living
